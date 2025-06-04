@@ -1,0 +1,12 @@
+python-dotenv
+jira
+PyGithub
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+streamlit
+openai
+python-dateutil
+pandas
+requests
+urllib3
